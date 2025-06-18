@@ -2,7 +2,7 @@
 
 **Ain’t your grandma’s Arkanoid.**
 This is my *pure JavaScript*, no-dependency, neon-drenched, MySpace-era inspired, Y2K brick breaker.
-Built just because I can. And because boring games suck.
+Built just because I can. And because I was bored.
 
 ---
 
